@@ -1,0 +1,31 @@
+.forget-div{
+    max-width: 500px;
+    margin-left: 30%;
+    margin-top: 50px;
+    height: 250px;
+    background-color: #E1E1E7;
+    border-radius:2px dotted solid ;
+    padding: auto;
+   }
+  .titre-page{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #676675 ;
+    padding-top: 15px;
+    
+  }
+  .input-email{
+    margin-right: 90px;
+    margin-top: 20px;
+  }
+  .form-forgot {
+    margin-left: 50px;
+  }
+     .forget-form-button {
+      width: 238px;
+      margin-left: -40%;
+      
+    }
+    .notification{
+      color: red;
+    }
